@@ -1,0 +1,2 @@
+# LaTeX
+\documentclass{gitLaTeX}
